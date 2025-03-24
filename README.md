@@ -1,3 +1,3 @@
 # Verilog Project
 ## Overview
-Initial repository setup
+Verilog project for digital design, including ALU and register modules.
